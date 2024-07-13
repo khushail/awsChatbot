@@ -13,7 +13,7 @@ Explains the basic way of accessing Bedrock LLMs, with chatbot framework for Q n
 )
 ```
 4. Input variables for the LLM are 2 -Language and Input text.
-5. Mac_char input is limited to 100 chars which can be changed -
+5. Max_char input is limited to 100 chars which can be changed -
 ```py
 freeform_text = st.sidebar.text_area(label="what is your question?",
     max_chars=100)

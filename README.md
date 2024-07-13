@@ -1,7 +1,7 @@
 # awsChatbot
 Explains the basic way of accessing Bedrock LLMs, with chatbot framework for Q n A in Multiple languages
 
-##Instrcution to setup this chatbot
+## Instrcution to setup this chatbot
 1. Get the access to the required LLM on AWS account. For this repo, its "Anthropic- Claude model sonnet". Once you get the access, copy the Model Id and save it for future usage.
 2. Get the User profile name which has access to the lLM .
 3. Every model has different input parameters for setting. The claude models have this -
